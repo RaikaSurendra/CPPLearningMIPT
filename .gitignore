@@ -1,0 +1,43 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+*.exe
+*.o
+*.obj
+
+# C++ specific
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# IDE files
+.vscode/
+*.code-workspace
+*.vcxproj*
+*.sln
+
+# Build directories
+build/
+dist/
+cmake-build-/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Log files
+*.log
