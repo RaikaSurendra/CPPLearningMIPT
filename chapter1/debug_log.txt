@@ -1,0 +1,6 @@
+=== PROGRAM START ===
+[LOG] Starting debug vs release bug demonstration
+[LOG] === RUNNING BUGGY VERSION ===
+[LOG] Entering processCriticalData()
+[LOG] Variable 'featureEnabled' declared but not initialized
+[LOG] Value of featureEnabled: 80412672

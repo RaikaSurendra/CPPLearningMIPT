@@ -30,7 +30,4 @@ clang++ HW1_3_solution.cpp -o HW1_3_solution
 ./HW1_1_solution
 ./HW1_2_solution
 ./HW1_3_solution
-"
-""
-'
-exit
+
